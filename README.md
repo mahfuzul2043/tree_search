@@ -1,6 +1,7 @@
 # tree_search
  
-```Description: This program demonstrates the relationship between classes that use inheritance and multiple inheritance in programming. For example,
+```
+Description: This program demonstrates the relationship between classes that use inheritance and multiple inheritance in programming. For example,
 a class Date can extend Time, and a class Appointment can extend Date. This is an example of inheritance; Date inherits the member functions and data members
 of Time, and Appointment inherits the member functions and data members of both Time AND Appointment. A good example of multiple inheritance would be say, 
 a class Circle. It can inherit member functions and data members from a class Shape AND Point, where Point and Shape are not related, but Circle is related
